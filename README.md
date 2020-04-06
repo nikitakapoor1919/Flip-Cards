@@ -1,6 +1,6 @@
 # Flip-Cards
 Flips Cards Using Css and Html
 
+<a href="https://nikitakapoor1919.github.io/Flip-Cards/">Live Demo</a>
 
-![image](https://user-images.githubusercontent.com/62166533/78432215-fbcc6280-7692-11ea-9332-cbdaff7ae3bf.png)
 
